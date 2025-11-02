@@ -7,9 +7,8 @@ This project implements a deep learning model to classify news articles as **rea
 - BiLSTM with Attention for contextual learning
 - Cleaned and preprocessed real-world dataset
 - Evaluation using Accuracy, F1-score, and ROC-AUC
-- Optional comparison: LSTM vs BiLSTM vs BiLSTM+Attention
 
-## Dataset
+## Dataset 
 
 - Source: [Kaggle - Fake and Real News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
 
